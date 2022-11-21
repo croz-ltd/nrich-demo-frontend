@@ -1513,40 +1513,40 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@croz/nrich-form-configuration-core@npm:^1.0.1":
-  version: 1.0.1
-  resolution: "@croz/nrich-form-configuration-core@npm:1.0.1"
+"@croz/nrich-form-configuration-core@npm:^1.0.9":
+  version: 1.0.9
+  resolution: "@croz/nrich-form-configuration-core@npm:1.0.9"
   dependencies:
     yup: ^0.32.11
     zustand: ^4.1.4
   peerDependencies:
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: 58b49a31c357319174174883521142a64858dde42a06486c1c0fad5ee3dc080ff10c69dfb0be8c86dc0ebeccc43da382c1bbd42db8b004047607e6838be1d738
+  checksum: a3fdba532a7363e4c18ae394622c6df5b5fd059bb4618195aaf0a27f8683f836d9775f5ffd10f9341428d25f8f7a707a79bd8a179ad05c14ca1a53696509de94
   languageName: node
   linkType: hard
 
-"@croz/nrich-notification-core@npm:^1.0.1":
-  version: 1.0.1
-  resolution: "@croz/nrich-notification-core@npm:1.0.1"
+"@croz/nrich-notification-core@npm:^1.0.9":
+  version: 1.0.9
+  resolution: "@croz/nrich-notification-core@npm:1.0.9"
   dependencies:
     zustand: ^4.1.4
   peerDependencies:
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: 34bc95ff3528997ef455f4f88988b7564f9f522d2f608cc17dda32201dcce97e657a8adb14d8c85d9b2fe80be82656df097df3056b8c4c62bcf36d716e1ab458
+  checksum: 297a11f729aa0f6beb25262379e48cb5dfaee41d6ad92f41950f7a18adb59d8b2cb58b372789c5d228fac25676e68ce64d9bc0cd3a700372d64c2662c78413c6
   languageName: node
   linkType: hard
 
-"@croz/nrich-notification-mui@npm:^1.0.2":
-  version: 1.0.2
-  resolution: "@croz/nrich-notification-mui@npm:1.0.2"
+"@croz/nrich-notification-mui@npm:^1.0.9":
+  version: 1.0.9
+  resolution: "@croz/nrich-notification-mui@npm:1.0.9"
   peerDependencies:
     "@croz/nrich-notification-core": ^1.0.0
     "@mui/material": ^5.0.0
     react: ">=16.8.0"
     react-dom: ">=16.8.0"
-  checksum: 5bf49d26616d2e5f7c3c83b368511e06fafb9b39ee1445ec8f17d72f1e000c77e9e3c5fbd48c20136d2a8c9971f16b9d51e130f1d4c34da807dac7e928d6606e
+  checksum: 19b9c1315842a2cb1e23553486cb3d8db5aa4315e7f3f5c4769fc060f0fbfa40a11095c3607fe20ff69351fd1567ffca0f49d330195aaf1d6fccf4764adba2f2
   languageName: node
   linkType: hard
 
@@ -5426,9 +5426,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "demo@workspace:."
   dependencies:
-    "@croz/nrich-form-configuration-core": ^1.0.1
-    "@croz/nrich-notification-core": ^1.0.1
-    "@croz/nrich-notification-mui": ^1.0.2
+    "@croz/nrich-form-configuration-core": ^1.0.9
+    "@croz/nrich-notification-core": ^1.0.9
+    "@croz/nrich-notification-mui": ^1.0.9
     "@emotion/react": ^11.9.0
     "@emotion/styled": ^11.8.1
     "@mui/material": ^5.8.1
